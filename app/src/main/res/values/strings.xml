@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Librería digital</string>
+    <!--libro-->
+    <string name="listalikes">Mi lista de likes</string>
+    <string name="titulo">Título:</string>
+    <string name="autor">Autor:</string>
+    <string name="vacio"></string>
+    <string name="likes">Likes: </string>
+    <!--Info-->
+    <string name="infodesarrollador">Información del desarrollador</string>
+    <string name="infotitulo">Información del libro </string>
+    <string name="cerrar">Cerrar Sesión</string>
+    <!--AlertDialog-->
+    <string name="dialog_mensaje">¿Quieres ver la información del libro</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <!--Login-->
+    <string name="registro">Registro</string>
+    <string name="login">Login</string>
+    <string name="email">Email:</string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="botonregistrar">Registrate</string>
+    <string name="botonlogin">Iniciar sesión</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <!--Info-->
+    <string name="info">Este proyecto ha sido realizado por Jesús Rodríguez Malagón para el CURSO SUPERIOR EN PROGRAMACIÓN DE APLICACIONES PARA DISPOSITIVOS MÓVILES.</string>
+
+</resources>

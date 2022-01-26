@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "438607400770",
+    "project_id": "listalibros-102e0",
+    "storage_bucket": "listalibros-102e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438607400770:android:2574408ac45158ec9842db",
+        "android_client_info": {
+          "package_name": "com.jesusrodriguez.ejerciciofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438607400770-f1h7pqu4s83rhrqpd5uvp2fjl3r61jns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jesusrodriguez.ejerciciofinal",
+            "certificate_hash": "e7370f2bfc42c0d0f499f68f62e3c1889eb9f3c9"
+          }
+        },
+        {
+          "client_id": "438607400770-1var52clrvbpou4t72jklogi31k35vje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnWYuV56NkJVjCIU_7xbYXu_bCH4byymQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438607400770-1var52clrvbpou4t72jklogi31k35vje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

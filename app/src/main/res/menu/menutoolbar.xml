@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021. Project made by Jesús Rodríguez Malagón
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/cambiarmodo"
+        android:icon="@drawable/sun"
+        android:title=''
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/listalikes"
+        android:title="@string/listalikes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/info"
+        android:title="@string/infodesarrollador"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cerrar"
+        android:title="@string/cerrar"
+        app:showAsAction="never" />
+
+</menu>
